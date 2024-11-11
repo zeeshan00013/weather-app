@@ -1,0 +1,41 @@
+.App {
+    text-align: center;
+  }
+  
+  .app_logo {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .today-table-header{
+    margin: auto;
+    background-color:#39b9d2
+  }
+  
+  .today-table-body{
+    background-color:#39b9d2
+  }
+  
+  td {
+    padding: 5px;
+  }
+  
+  .search{
+    padding: 10px;
+    border-radius: 2px;
+    border-color: black;
+    background-color: rgb(26, 121, 161);
+  }
